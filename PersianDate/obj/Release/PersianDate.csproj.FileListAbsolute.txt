@@ -1,0 +1,6 @@
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\bin\Release\PersianDate.dll
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\bin\Release\PersianDate.pdb
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\obj\Release\PersianDate.csprojResolveAssemblyReference.cache
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\obj\Release\PersianDate.csproj.CoreCompileInputs.cache
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\obj\Release\PersianDate.dll
+c:\users\mhbayan\documents\visual studio 2017\Projects\PersianDate\PersianDate\obj\Release\PersianDate.pdb
